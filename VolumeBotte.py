@@ -1,5 +1,6 @@
 # Calcolare il Volume di una Botte, conoscendone i raggi e l'altezza
-c = 3,1415
+
+c = 3.1415
 
 r1 = 30
 
@@ -20,3 +21,6 @@ V = (1/6)* h * (S1+ 4*S2 + S3)
 
 print (V)
 
+litri = V/1000
+
+print (litri)
