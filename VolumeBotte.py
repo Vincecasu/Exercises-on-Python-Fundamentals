@@ -1,12 +1,15 @@
 # Calcolare il Volume di una Botte, conoscendone i raggi e l'altezza
 
+r1 = (int (input ("r1 = ")))
+
+r2 = (int (input ("r2 = ")))
+
+r3 = (int (input ("r3 = ")))
+
+
 c = 3.1415
 
-r1 = 30
 
-r2 = 45
-
-r3 = 33
 
 h = 130
 
