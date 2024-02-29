@@ -1,4 +1,5 @@
-import random
+import random 
+random.randint
 
-numeri = []
-n = 1000000
+
+
