@@ -1,11 +1,16 @@
 numero = ""
+
+virgola = (",")
+
+
 while True:
     c = input("Digita 0-9,+-/=: ")
     if len(c) > 0:
         c = c[0]
     if len(c)==0:
         continue
-    # dovete leggere un numero sia intero, sia decimale
+
+# dovete leggere un numero sia intero, sia decimale
     # e stamparlo nella sua interezza quando viene
     # digitato un simbolo non numerico (+-/=)
     #
