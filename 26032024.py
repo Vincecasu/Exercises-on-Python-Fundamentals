@@ -76,4 +76,4 @@ while strike!= M:
     lista = ConvertiStringaDigitInListaNumeri(l2)
     strike, ball = ContaUgualiInStessoEInAltro(l1, lista)
     print("Strike: ", strike, "Ball: ", ball)
-print("Hai vinto! ", l1)
+print("Hai vinto! ", l1) 
